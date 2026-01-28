@@ -22,9 +22,13 @@ namespace SignalRWebUI.Controllers
             {
                 var jsonData = await responseMessage.Content.ReadAsStringAsync();
                 var values = JsonConvert.DeserializeObject<List<ResultBasketDto>>(jsonData);
+
+                ViewBag.GrandTotal = values?.Sum(x => x.Price * x.Count) ?? 0;
+
                 return View(values);
             }
-            return View();
+            ViewBag.GrandTotal = 0;
+            return View(new List<ResultBasketDto>());
         }
 
         public async Task<IActionResult> DeleteBasket(int id)

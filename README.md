@@ -47,3 +47,39 @@ Amaç, restoran içerisindeki sipariş ve yönetim süreçlerini anlık olarak t
 ✅ Modern Admin Panel Tasarımı
 
 
+## Proje Görselleri
+
+### Home Page 
+![Ana Sayfa](SignalRWebUI/ProjectImages/AnaSayfa.png)
+
+### Contact Page
+![Menü](SignalRWebUI/ProjectImages/BizeUlaşın.png)
+
+### Basket Page
+![Sepet](SignalRWebUI/ProjectImages/Sepet.png)
+
+### Db Page
+![Db](SignalRWebUI/ProjectImages/Db.png)
+
+### Footer Page
+![Footer](SignalRWebUI/ProjectImages/Footer.png)
+
+### Menu Page
+![Menu](SignalRWebUI/ProjectImages/Menü.png)
+
+### QR Code Page
+![QRCode](SignalRWebUI/ProjectImages/QRCode.png)
+
+### Rapid Api Page
+![RapidApi](SignalRWebUI/ProjectImages/RapidApi.png)
+
+### Booking Page
+![Rezervasyon](SignalRWebUI/ProjectImages/Rezervasyonlar.png)
+
+### Swagger Page
+![Swagger](SignalRWebUI/ProjectImages/Swagger.png)
+
+### Discount Page
+![İndirim](SignalRWebUI/ProjectImages/İndirimler.png)
+
+

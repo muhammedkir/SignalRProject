@@ -52,9 +52,6 @@ Amaç, restoran içerisindeki sipariş ve yönetim süreçlerini anlık olarak t
 ### Home Page 
 ![Ana Sayfa](SignalRWebUI/ProjectImages/AnaSayfa.png)
 
-### Contact Page
-![Contact](SignalRWebUI/ProjectImages/Bize Ulaşın.png)
-
 ### Basket Page
 ![Sepet](SignalRWebUI/ProjectImages/Sepet.png)
 
@@ -66,9 +63,6 @@ Amaç, restoran içerisindeki sipariş ve yönetim süreçlerini anlık olarak t
 
 ### Menu Page
 ![Menu](SignalRWebUI/ProjectImages/Menü.png)
-
-### QR Code Page
-![QRCode](SignalRWebUI/ProjectImages/QR Code.png)
 
 ### Rapid Api Page
 ![RapidApi](SignalRWebUI/ProjectImages/RapidApi.png)

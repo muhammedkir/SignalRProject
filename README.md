@@ -47,13 +47,18 @@ Amaç, restoran içerisindeki sipariş ve yönetim süreçlerini anlık olarak t
 ✅ Modern Admin Panel Tasarımı
 
 
+
+
+
+
+
 ## Proje Görselleri
 
 ### Home Page 
 ![Ana Sayfa](SignalRWebUI/ProjectImages/AnaSayfa.png)
 
 ### Basket Page
-![Sepet](SignalRWebUI/ProjectImages/Sepet.png)
+![Sepet](SignalRWebUI/ProjectImages/Basket.png)
 
 ### Db Page
 ![Db](SignalRWebUI/ProjectImages/Db.png)
